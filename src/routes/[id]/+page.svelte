@@ -46,36 +46,14 @@
           <dt class="text-sm font-medium text-gray-600">Viennale</dt>
           <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2"><a href={movie.links[0].lvalue} class="hover:text-black">{movie.links[0].lvalue}</a></dd>
         </div>
-        <!--div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-          <dt class="text-sm font-medium text-gray-600">Sterbedatum</dt>
-          <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{person.deathdate}</dd>
+        <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
+          <dt class="text-sm font-medium text-gray-600">Show 1</dt>
+          <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{movie.shows[0].date} - {movie.shows[0].time}h - {movie.shows[0].weekday} - {movie.shows[0].kino}</dd>
         </div>
         <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-          <dt class="text-sm font-medium text-gray-600">Sterbeort</dt>
-          <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{person.deathplace}</dd>
+          <dt class="text-sm font-medium text-gray-600">Show 2</dt>
+          <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{movie.shows[1].date} - {movie.shows[1].time}h - {movie.shows[1].weekday} - {movie.shows[1].kino}</dd>
         </div>
-        <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-          <dt class="text-sm font-medium text-gray-600">Funktion / Rolle</dt>
-          {#if person.role.length > 0}
-            <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{person.function} / {person.role}</dd>
-          {:else}
-            <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{person.function}</dd>
-          {/if}
-        </div>
-        {#if person.links.length > 0}
-          <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-            <dt class="text-sm font-medium text-gray-600">Links</dt>
-            <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">
-              <ul>
-                {#each person.links as link}
-                  <li class="py-1">
-                    <a rel="external" href={link.lvalue} class="text-teal-400">{link.lkey}</a>
-                  </li>
-                {/each}
-              </ul>
-            </dd>
-          </div>
-        {/if}-->
       </dl>
     </div>
   </div>

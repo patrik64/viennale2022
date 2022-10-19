@@ -298,36 +298,6 @@
         }
       ],
       "image": "falconlake.png"
-    },
-    {
-      "id": 200,
-      "name": "",
-      "score": "",
-      "shows" : [
-        {
-          "kino": "",
-          "date": "",
-          "time": "",
-          "weekday": ""
-        },
-        {
-          "kino": "",
-          "date": "",
-          "time": "",
-          "weekday": ""
-        }
-      ],
-      "links": [
-        {
-          "lkey": "viennale",
-          "lvalue": ""
-        },
-        {
-          "lkey": "imdb",
-          "lvalue": ""
-        }
-      ],
-      "image": ".png"
     }
 ]
   
