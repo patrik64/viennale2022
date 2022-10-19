@@ -212,7 +212,7 @@
     {
       "id": 8,
       "name": "Zhena Chaikovskogo",
-      "score": "",
+      "score": "6.5",
       "shows" : [
         {
           "kino": "S",
@@ -238,6 +238,66 @@
         }
       ],
       "image": "tchai.png"
+    },
+    {
+      "id": 9,
+      "name": "All the Beauty and the Bloodshed",
+      "score": "7.9",
+      "shows" : [
+        {
+          "kino": "S",
+          "date": "21.10.2022",
+          "time": "20:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "G",
+          "date": "24.10.2022",
+          "time": "15:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/all-beauty-and-bloodshed"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21374850"
+        }
+      ],
+      "image": "allthebeauty.png"
+    },
+    {
+      "id": 10,
+      "name": "Falcon Lake",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "S",
+          "date": "21.10.2022",
+          "time": "23:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "U",
+          "date": "22.10.2022",
+          "time": "18:30",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/falcon-lake"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11448830"
+        }
+      ],
+      "image": "falconlake.png"
     },
     {
       "id": 200,
