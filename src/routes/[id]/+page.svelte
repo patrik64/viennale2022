@@ -3,7 +3,6 @@
 
   let id = '';
   for(let x in data) {
-    console.log('x', x);
     id += data[x];
   }
 

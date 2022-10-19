@@ -298,6 +298,126 @@
         }
       ],
       "image": "falconlake.png"
+    },
+    {
+      "id": 11,
+      "name": "Keiko, me wo sumasete",
+      "score": "7.3",
+      "shows" : [
+        {
+          "kino": "U",
+          "date": "21.10.2022",
+          "time": "11:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "M",
+          "date": "24.10.2022",
+          "time": "21:00",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/keiko-me-wo-sumasete"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17309864"
+        }
+      ],
+      "image": "smallslow.png"
+    },
+    {
+      "id": 12,
+      "name": "Father's Day",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "U",
+          "date": "21.10.2022",
+          "time": "13:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "U",
+          "date": "27.10.2022",
+          "time": "11:00",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/fathers-day"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17308496"
+        }
+      ],
+      "image": "fathersday.png"
+    },
+    {
+      "id": 13,
+      "name": "Mato seco em chamas",
+      "score": "6.3",
+      "shows" : [
+        {
+          "kino": "U",
+          "date": "21.10.2022",
+          "time": "15:15",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "M",
+          "date": "31.10.2022",
+          "time": "20:00",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/mato-seco-em-chamas"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17550726"
+        }
+      ],
+      "image": "dryground.png"
+    },
+    {
+      "id": 14,
+      "name": "Akyn",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "U",
+          "date": "21.10.2022",
+          "time": "18:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "M",
+          "date": "23.10.2022",
+          "time": "16:15",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/akyn"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13454112"
+        }
+      ],
+      "image": "poet.png"
     }
 ]
   
