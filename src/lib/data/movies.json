@@ -210,6 +210,36 @@
       "image": "aftersun.png"
     },
     {
+      "id": 8,
+      "name": "Zhena Chaikovskogo",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "S",
+          "date": "21.10.2022",
+          "time": "17:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "U",
+          "date": "01.11.2022",
+          "time": "13:15",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/zhena-chaikovskogo"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17538510"
+        }
+      ],
+      "image": "tchai.png"
+    },
+    {
       "id": 200,
       "name": "",
       "score": "",
