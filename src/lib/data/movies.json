@@ -1,0 +1,243 @@
+[
+    {
+      "id": 1,
+      "name": "Vera",
+      "score": "7.9",
+      "shows" : [
+        {
+          "kino": "G",
+          "date": "20.10.2022",
+          "time": "19:00",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "S",
+          "date": "20.10.2022 ",
+          "time": "20:30",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/de/film/vera"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21377368"
+        }
+      ],
+      "image": "vera.png"
+    },
+    {
+      "id": 2,
+      "name": "R.M.N.",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "G",
+          "date": "21.10.2022",
+          "time": "15:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "S",
+          "date": "25.10.2022",
+          "time": "23:00",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/de/film/rmn"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt18550182"
+        }
+      ],
+      "image": "rmn.png"
+    },
+    {
+      "id": 3,
+      "name": "Women Talking",
+      "score": "7.7",
+      "shows" : [
+        {
+          "kino": "G",
+          "date": "21.10.2022",
+          "time": "18:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "G",
+          "date": "28.10.2022",
+          "time": "15:30",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/de/film/women-talking"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13669038"
+        }
+      ],
+      "image": "womentalking.png"
+    },
+    {
+      "id": 4,
+      "name": "Sparta",
+      "score": "7.4",
+      "shows" : [
+        {
+          "kino": "G",
+          "date": "21.10.2022",
+          "time": "20:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "G",
+          "date": "22.10.2022",
+          "time": "12:30",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/de/film/sparta"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt18162296"
+        }
+      ],
+      "image": "sparta.png"
+    },
+    {
+      "id": 5,
+      "name": "Coupez!",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "G",
+          "date": "21.10.2022",
+          "time": "23:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "S",
+          "date": "29.10.2022",
+          "time": "23:15",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/de/film/coupez"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14317880"
+        }
+      ],
+      "image": "finalcut.png"
+    },
+    {
+      "id": 6,
+      "name": "Les Amandiers",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "S",
+          "date": "21.10.2022",
+          "time": "12:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "U",
+          "date": "26.10.2022",
+          "time": "21:00",
+          "weekday": "Wednesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/de/film/amandiers"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14976386"
+        }
+      ],
+      "image": "foreveryoung.png"
+    },
+    {
+      "id": 7,
+      "name": "Aftersun",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "S",
+          "date": "21.10.2022",
+          "time": "15:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "U",
+          "date": "27.10.2022",
+          "time": "21:00",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/de/film/aftersun"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt19770238"
+        }
+      ],
+      "image": "aftersun.png"
+    },
+    {
+      "id": 200,
+      "name": "",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": ""
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": ""
+        }
+      ],
+      "image": ".png"
+    }
+]
+  
