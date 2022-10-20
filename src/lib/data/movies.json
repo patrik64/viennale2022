@@ -602,7 +602,7 @@
     {
       "id": 21,
       "name": "Crimes of the Future",
-      "score": "7.1",
+      "score": "5.9",
       "shows" : [
         {
           "kino": "Gartenbaukino",
@@ -1138,6 +1138,156 @@
         }
       ],
       "image": "noite.png"
+    },
+    {
+      "id": 39,
+      "name": "Human Flowers of Flesh",
+      "score": "6.4",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "23.10.2022",
+          "time": "16:00",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "24.10.2022",
+          "time": "17:45",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/human-flowers-flesh"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13846508"
+        }
+      ],
+      "image": "flesh.png"
+    },
+    {
+      "id": 40,
+      "name": "Nuclear Family",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "23.10.2022",
+          "time": "18:45",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "24.10.2022",
+          "time": "15:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/nuclear-family"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15705752"
+        }
+      ],
+      "image": "nuclear.png"
+    },
+    {
+      "id": 41,
+      "name": "Pamfir",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "Metro Kino",
+          "date": "23.10.2022",
+          "time": "19:00",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "24.10.2022",
+          "time": "13:00",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/pamfir"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt9455468"
+        }
+      ],
+      "image": "pamfir.png"
+    },
+    {
+      "id": 42,
+      "name": "Matter out of Place",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "24.10.2022",
+          "time": "18:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "25.10.2022",
+          "time": "15:00",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/matter-out-place"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21149114"
+        }
+      ],
+      "image": "matter.png"
+    },
+    {
+      "id": 43,
+      "name": "Family Dinner",
+      "score": "6.3",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "24.10.2022",
+          "time": "21:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "25.10.2022",
+          "time": "23:15",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/family-dinner"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15502356"
+        }
+      ],
+      "image": "familydinner.png"
     }
 ]
   
