@@ -842,7 +842,7 @@
     {
       "id": 29,
       "name": "Unrueh",
-      "score": "6.9",
+      "score": "7.0",
       "shows" : [
         {
           "kino": "Urania",
@@ -860,14 +860,14 @@
       "links": [
         {
           "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/en/film/un-petit-frere"
+          "lvalue": "https://www.viennale.at/en/film/unrueh"
         },
         {
           "lkey": "imdb",
-          "lvalue": "https://www.imdb.com/title/tt17014214"
+          "lvalue": "https://www.imdb.com/title/tt11409736"
         }
       ],
-      "image": "petit.png"
+      "image": "unrest.png"
     },
     {
       "id": 30,
