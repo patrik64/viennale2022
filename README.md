@@ -1,2 +1,2 @@
-# [Viennale 2022](https://www.viennale.at/en)
+# [Viennale 2022](viennale2022.vercel.app)
 quick list of Viennale 2022 movies
