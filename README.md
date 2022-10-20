@@ -3,5 +3,5 @@ quick list of Viennale 2022 movies
 
 ```
 pnpm i
-pnpm run dev --open
+pnpm dev --open
 ```
