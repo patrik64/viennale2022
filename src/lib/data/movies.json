@@ -988,6 +988,126 @@
         }
       ],
       "image": "eis.png"
+    },
+    {
+      "id": 34,
+      "name": "Pacifiction",
+      "score": "6.6",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "23.10.2022",
+          "time": "20:30",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Urania",
+          "date": "25.10.2022",
+          "time": "21:00",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/pacifiction"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13702796"
+        }
+      ],
+      "image": "pacifiction.png"
+    },
+    {
+      "id": 35,
+      "name": "Afterwater",
+      "score": "4.8",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "23.10.2022",
+          "time": "17:30",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Metro Kino",
+          "date": "26.10.2022",
+          "time": "13:30",
+          "weekday": "Wednesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/afterwater"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt12386022"
+        }
+      ],
+      "image": "afterwater.png"
+    },
+    {
+      "id": 36,
+      "name": "Viens je t'emmène",
+      "score": "6.3",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "23.10.2022",
+          "time": "20:15",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "26.10.2022",
+          "time": "18:15",
+          "weekday": "Wednesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/viens-je-temmene"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11669538"
+        }
+      ],
+      "image": "viens.png"
+    },
+    {
+      "id": 37,
+      "name": "L' Envol",
+      "score": "6.5",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "23.10.2022",
+          "time": "23:00",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Urania",
+          "date": "28.10.2022",
+          "time": "16:00",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/envol"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14212090"
+        }
+      ],
+      "image": "scarlet.png"
     }
 ]
   
