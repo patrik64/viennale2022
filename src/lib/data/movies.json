@@ -5,13 +5,13 @@
       "score": "7.9",
       "shows" : [
         {
-          "kino": "G",
+          "kino": "Gartenbaukino",
           "date": "20.10.2022",
           "time": "19:00",
           "weekday": "Thursday"
         },
         {
-          "kino": "S",
+          "kino": "Stadtkino",
           "date": "20.10.2022 ",
           "time": "20:30",
           "weekday": "Thursday"
@@ -20,7 +20,7 @@
       "links": [
         {
           "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/de/film/vera"
+          "lvalue": "https://www.viennale.at/en/film/vera"
         },
         {
           "lkey": "imdb",
@@ -35,13 +35,13 @@
       "score": "7.5",
       "shows" : [
         {
-          "kino": "G",
+          "kino": "Gartenbaukino",
           "date": "21.10.2022",
           "time": "15:30",
           "weekday": "Friday"
         },
         {
-          "kino": "S",
+          "kino": "Stadtkino",
           "date": "25.10.2022",
           "time": "23:00",
           "weekday": "Tuesday"
@@ -50,7 +50,7 @@
       "links": [
         {
           "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/de/film/rmn"
+          "lvalue": "https://www.viennale.at/en/film/rmn"
         },
         {
           "lkey": "imdb",
@@ -65,13 +65,13 @@
       "score": "7.7",
       "shows" : [
         {
-          "kino": "G",
+          "kino": "Gartenbaukino",
           "date": "21.10.2022",
           "time": "18:00",
           "weekday": "Friday"
         },
         {
-          "kino": "G",
+          "kino": "Gartenbaukino",
           "date": "28.10.2022",
           "time": "15:30",
           "weekday": "Friday"
@@ -80,7 +80,7 @@
       "links": [
         {
           "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/de/film/women-talking"
+          "lvalue": "https://www.viennale.at/en/film/women-talking"
         },
         {
           "lkey": "imdb",
@@ -95,13 +95,13 @@
       "score": "7.4",
       "shows" : [
         {
-          "kino": "G",
+          "kino": "Gartenbaukino",
           "date": "21.10.2022",
           "time": "20:30",
           "weekday": "Friday"
         },
         {
-          "kino": "G",
+          "kino": "Gartenbaukino",
           "date": "22.10.2022",
           "time": "12:30",
           "weekday": "Saturday"
@@ -110,7 +110,7 @@
       "links": [
         {
           "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/de/film/sparta"
+          "lvalue": "https://www.viennale.at/en/film/sparta"
         },
         {
           "lkey": "imdb",
@@ -125,13 +125,13 @@
       "score": "6.8",
       "shows" : [
         {
-          "kino": "G",
+          "kino": "Gartenbaukino",
           "date": "21.10.2022",
           "time": "23:00",
           "weekday": "Friday"
         },
         {
-          "kino": "S",
+          "kino": "Stadtkino",
           "date": "29.10.2022",
           "time": "23:15",
           "weekday": "Saturday"
@@ -140,7 +140,7 @@
       "links": [
         {
           "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/de/film/coupez"
+          "lvalue": "https://www.viennale.at/en/film/coupez"
         },
         {
           "lkey": "imdb",
@@ -155,13 +155,13 @@
       "score": "6.8",
       "shows" : [
         {
-          "kino": "S",
+          "kino": "Stadtkino",
           "date": "21.10.2022",
           "time": "12:30",
           "weekday": "Friday"
         },
         {
-          "kino": "U",
+          "kino": "Urania",
           "date": "26.10.2022",
           "time": "21:00",
           "weekday": "Wednesday"
@@ -170,7 +170,7 @@
       "links": [
         {
           "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/de/film/amandiers"
+          "lvalue": "https://www.viennale.at/en/film/amandiers"
         },
         {
           "lkey": "imdb",
@@ -185,13 +185,13 @@
       "score": "7.6",
       "shows" : [
         {
-          "kino": "S",
+          "kino": "Stadtkino",
           "date": "21.10.2022",
           "time": "15:30",
           "weekday": "Friday"
         },
         {
-          "kino": "U",
+          "kino": "Urania",
           "date": "27.10.2022",
           "time": "21:00",
           "weekday": "Thursday"
@@ -200,7 +200,7 @@
       "links": [
         {
           "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/de/film/aftersun"
+          "lvalue": "https://www.viennale.at/en/film/aftersun"
         },
         {
           "lkey": "imdb",
@@ -215,13 +215,13 @@
       "score": "6.5",
       "shows" : [
         {
-          "kino": "S",
+          "kino": "Stadtkino",
           "date": "21.10.2022",
           "time": "17:30",
           "weekday": "Friday"
         },
         {
-          "kino": "U",
+          "kino": "Urania",
           "date": "01.11.2022",
           "time": "13:15",
           "weekday": "Tuesday"
@@ -245,13 +245,13 @@
       "score": "7.9",
       "shows" : [
         {
-          "kino": "S",
+          "kino": "Stadtkino",
           "date": "21.10.2022",
           "time": "20:30",
           "weekday": "Friday"
         },
         {
-          "kino": "G",
+          "kino": "Gartenbaukino",
           "date": "24.10.2022",
           "time": "15:30",
           "weekday": "Monday"
@@ -275,13 +275,13 @@
       "score": "7.6",
       "shows" : [
         {
-          "kino": "S",
+          "kino": "Stadtkino",
           "date": "21.10.2022",
           "time": "23:00",
           "weekday": "Friday"
         },
         {
-          "kino": "U",
+          "kino": "Urania",
           "date": "22.10.2022",
           "time": "18:30",
           "weekday": "Saturday"
@@ -305,13 +305,13 @@
       "score": "7.3",
       "shows" : [
         {
-          "kino": "U",
+          "kino": "Urania",
           "date": "21.10.2022",
           "time": "11:00",
           "weekday": "Friday"
         },
         {
-          "kino": "M",
+          "kino": "Metro Kino",
           "date": "24.10.2022",
           "time": "21:00",
           "weekday": "Monday"
@@ -335,13 +335,13 @@
       "score": "6.8",
       "shows" : [
         {
-          "kino": "U",
+          "kino": "Urania",
           "date": "21.10.2022",
           "time": "13:00",
           "weekday": "Friday"
         },
         {
-          "kino": "U",
+          "kino": "Urania",
           "date": "27.10.2022",
           "time": "11:00",
           "weekday": "Thursday"
@@ -365,13 +365,13 @@
       "score": "6.3",
       "shows" : [
         {
-          "kino": "U",
+          "kino": "Urania",
           "date": "21.10.2022",
           "time": "15:15",
           "weekday": "Friday"
         },
         {
-          "kino": "M",
+          "kino": "Metro Kino",
           "date": "31.10.2022",
           "time": "20:00",
           "weekday": "Monday"
@@ -395,13 +395,13 @@
       "score": "6.9",
       "shows" : [
         {
-          "kino": "U",
+          "kino": "Urania",
           "date": "21.10.2022",
           "time": "18:30",
           "weekday": "Friday"
         },
         {
-          "kino": "M",
+          "kino": "Metro Kino",
           "date": "23.10.2022",
           "time": "16:15",
           "weekday": "Sunday"
@@ -425,13 +425,13 @@
       "score": "7.3",
       "shows" : [
         {
-          "kino": "U",
+          "kino": "Urania",
           "date": "21.10.2022",
           "time": "21:15",
           "weekday": "Friday"
         },
         {
-          "kino": "U",
+          "kino": "Urania",
           "date": "22.10.2022",
           "time": "11:00",
           "weekday": "Saturday"
@@ -455,13 +455,13 @@
       "score": "6.9",
       "shows" : [
         {
-          "kino": "M",
+          "kino": "Metro Kino",
           "date": "21.10.2022",
           "time": "11:00",
           "weekday": "Friday"
         },
         {
-          "kino": "U",
+          "kino": "Urania",
           "date": "29.10.2022",
           "time": "16:15",
           "weekday": "Saturday"
@@ -485,13 +485,13 @@
       "score": "6.7",
       "shows" : [
         {
-          "kino": "M",
+          "kino": "Metro Kino",
           "date": "21.10.2022",
           "time": "13:30",
           "weekday": "Friday"
         },
         {
-          "kino": "S",
+          "kino": "Stadtkino",
           "date": "31.10.2022",
           "time": "13:00",
           "weekday": "Monday"
@@ -515,13 +515,13 @@
       "score": "6.8",
       "shows" : [
         {
-          "kino": "M",
+          "kino": "Metro Kino",
           "date": "21.10.2022",
           "time": "22:00",
           "weekday": "Friday"
         },
         {
-          "kino": "S",
+          "kino": "Stadtkino",
           "date": "23.10.2022",
           "time": "15:00",
           "weekday": "Sunday"
@@ -545,13 +545,13 @@
       "score": "7.2",
       "shows" : [
         {
-          "kino": "FM",
+          "kino": "Filmmuseum",
           "date": "21.10.2022",
           "time": "18:00",
           "weekday": "Friday"
         },
         {
-          "kino": "U",
+          "kino": "Urania",
           "date": "22.10.2022",
           "time": "13:30",
           "weekday": "Saturday"
@@ -575,13 +575,13 @@
       "score": "7.1",
       "shows" : [
         {
-          "kino": "G",
+          "kino": "Gartenbaukino",
           "date": "22.10.2022",
           "time": "15:45",
           "weekday": "Saturday"
         },
         {
-          "kino": "G",
+          "kino": "Gartenbaukino",
           "date": "30.10.2022",
           "time": "10:30",
           "weekday": "Sunday"
@@ -590,7 +590,7 @@
       "links": [
         {
           "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/de/film/passagers-de-la-nuit"
+          "lvalue": "https://www.viennale.at/en/film/passagers-de-la-nuit"
         },
         {
           "lkey": "imdb",
@@ -605,13 +605,13 @@
       "score": "7.1",
       "shows" : [
         {
-          "kino": "G",
+          "kino": "Gartenbaukino",
           "date": "22.10.2022",
           "time": "18:00",
           "weekday": "Saturday"
         },
         {
-          "kino": "G",
+          "kino": "Gartenbaukino",
           "date": "29.10.2022",
           "time": "23:15",
           "weekday": "Saturday"
@@ -635,13 +635,13 @@
       "score": "6.7",
       "shows" : [
         {
-          "kino": "G",
+          "kino": "Gartenbaukino",
           "date": "22.10.2022",
           "time": "20:30",
           "weekday": "Saturday"
         },
         {
-          "kino": "U",
+          "kino": "Urania",
           "date": "26.10.2022",
           "time": "13:15",
           "weekday": "Wednesday"
@@ -650,7 +650,7 @@
       "links": [
         {
           "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/de/film/mutzenbacher"
+          "lvalue": "https://www.viennale.at/en/film/mutzenbacher"
         },
         {
           "lkey": "imdb",
@@ -665,13 +665,13 @@
       "score": "6.0",
       "shows" : [
         {
-          "kino": "G",
+          "kino": "Gartenbaukino",
           "date": "22.10.2022",
           "time": "23:00",
           "weekday": "Saturday"
         },
         {
-          "kino": "S",
+          "kino": "Stadtkino",
           "date": "30.10.2022",
           "time": "20:45",
           "weekday": "Sunday"
@@ -695,13 +695,13 @@
       "score": "7.5",
       "shows" : [
         {
-          "kino": "S",
+          "kino": "Stadtkino",
           "date": "22.10.2022",
           "time": "13:00",
           "weekday": "Saturday"
         },
         {
-          "kino": "M",
+          "kino": "Metro Kino",
           "date": "01.11.2022",
           "time": "18:30",
           "weekday": "Tusday"
@@ -725,13 +725,13 @@
       "score": "",
       "shows" : [
         {
-          "kino": "S",
+          "kino": "Stadtkino",
           "date": "22.10.2022",
           "time": "18:00",
           "weekday": "Saturday"
         },
         {
-          "kino": "M",
+          "kino": "Metro Kino",
           "date": "25.10.2022",
           "time": "16:00",
           "weekday": "Tusday"
@@ -740,7 +740,7 @@
       "links": [
         {
           "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/de/film/mein-satz"
+          "lvalue": "https://www.viennale.at/en/film/mein-satz"
         },
         {
           "lkey": "imdb",
@@ -748,6 +748,246 @@
         }
       ],
       "image": "satz.png"
+    },
+    {
+      "id": 26,
+      "name": "Lars Eidinger - Sein oder nicht sein",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "22.10.2022",
+          "time": "20:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Metro Kino",
+          "date": "29.10.2022",
+          "time": "21:00",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/lars-eidinger-sein-oder-nicht-sein"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt22046126"
+        }
+      ],
+      "image": "sein.png"
+    },
+    {
+      "id": 27,
+      "name": "Enys Men",
+      "score": "6.2",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "22.10.2022",
+          "time": "23:00",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Urania",
+          "date": "23.10.2022",
+          "time": "21:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/enys-men"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11698800"
+        }
+      ],
+      "image": "enysmen.png"
+    },
+    {
+      "id": 28,
+      "name": "Un petit frère",
+      "score": "6.3",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "22.10.2022",
+          "time": "16:00",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Urania",
+          "date": "31.10.2022",
+          "time": "21:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/un-petit-frere"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17014214"
+        }
+      ],
+      "image": "petit.png"
+    },
+    {
+      "id": 29,
+      "name": "Unrueh",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "22.10.2022",
+          "time": "21:00",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Urania",
+          "date": "23.10.2022",
+          "time": "13:30",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/un-petit-frere"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17014214"
+        }
+      ],
+      "image": "petit.png"
+    },
+    {
+      "id": 30,
+      "name": "Herbaria",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "22.10.2022",
+          "time": "20:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "23.10.2022",
+          "time": "12:30",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/herbaria"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11537034"
+        }
+      ],
+      "image": "herbaria.png"
+    },
+    {
+      "id": 31,
+      "name": "Heojil kyolshim",
+      "score": "7.3",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "23.10.2022",
+          "time": "12:30",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "31.10.2022",
+          "time": "23:00",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/heojil-kyolshim"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt12477480"
+        }
+      ],
+      "image": "leave.png"
+    },
+    {
+      "id": 32,
+      "name": "Armageddon Time",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "23.10.2022",
+          "time": "15:30",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "29.10.2022",
+          "time": "18:15",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/armageddon-time"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt10343028"
+        }
+      ],
+      "image": "armageddon.png"
+    },
+    {
+      "id": 33,
+      "name": "Eismayer",
+      "score": "8.4",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "23.10.2022",
+          "time": "18:00",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Urania",
+          "date": "23.10.2022",
+          "time": "13:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/eismayer"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15393652"
+        }
+      ],
+      "image": "eis.png"
     }
 ]
   
