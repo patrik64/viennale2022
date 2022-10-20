@@ -418,6 +418,336 @@
         }
       ],
       "image": "poet.png"
+    },
+    {
+      "id": 15,
+      "name": "Tengo sueños eléctricos",
+      "score": "7.3",
+      "shows" : [
+        {
+          "kino": "U",
+          "date": "21.10.2022",
+          "time": "21:15",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "U",
+          "date": "22.10.2022",
+          "time": "11:00",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/tengo-suenos-electricos"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21227238"
+        }
+      ],
+      "image": "tengo.png"
+    },
+    {
+      "id": 16,
+      "name": "Mi pais imaginario",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "M",
+          "date": "21.10.2022",
+          "time": "11:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "U",
+          "date": "29.10.2022",
+          "time": "16:15",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/mi-pais-imaginario"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt19797494"
+        }
+      ],
+      "image": "pais.png"
+    },
+    {
+      "id": 17,
+      "name": "Rewind & Play",
+      "score": "6.7",
+      "shows" : [
+        {
+          "kino": "M",
+          "date": "21.10.2022",
+          "time": "13:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "S",
+          "date": "31.10.2022",
+          "time": "13:00",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/rewind-play"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17555566"
+        }
+      ],
+      "image": "monk.png"
+    },
+    {
+      "id": 18,
+      "name": "A vendredi, Robinson ",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "M",
+          "date": "21.10.2022",
+          "time": "22:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "S",
+          "date": "23.10.2022",
+          "time": "15:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/vendredi-robinson"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt8841562"
+        }
+      ],
+      "image": "robinson.png"
+    },
+    {
+      "id": 19,
+      "name": "Mutter",
+      "score": "7.2",
+      "shows" : [
+        {
+          "kino": "FM",
+          "date": "21.10.2022",
+          "time": "18:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "U",
+          "date": "22.10.2022",
+          "time": "13:30",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/mutter"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21104158"
+        }
+      ],
+      "image": "mutter.png"
+    },
+    {
+      "id": 20,
+      "name": "Les Passagers de la nuit",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "G",
+          "date": "22.10.2022",
+          "time": "15:45",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "G",
+          "date": "30.10.2022",
+          "time": "10:30",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/de/film/passagers-de-la-nuit"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13846402"
+        }
+      ],
+      "image": "nuit.png"
+    },
+    {
+      "id": 21,
+      "name": "Crimes of the Future",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "G",
+          "date": "22.10.2022",
+          "time": "18:00",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "G",
+          "date": "29.10.2022",
+          "time": "23:15",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/crimes-future"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14549466"
+        }
+      ],
+      "image": "crimesfuture.png"
+    },
+    {
+      "id": 22,
+      "name": "Mutzenbacher",
+      "score": "6.7",
+      "shows" : [
+        {
+          "kino": "G",
+          "date": "22.10.2022",
+          "time": "20:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "U",
+          "date": "26.10.2022",
+          "time": "13:15",
+          "weekday": "Wednesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/de/film/mutzenbacher"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17309916"
+        }
+      ],
+      "image": "mutz.png"
+    },
+    {
+      "id": 23,
+      "name": "The Listener",
+      "score": "6.0",
+      "shows" : [
+        {
+          "kino": "G",
+          "date": "22.10.2022",
+          "time": "23:00",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "S",
+          "date": "30.10.2022",
+          "time": "20:45",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/listener"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17309916"
+        }
+      ],
+      "image": "listener.png"
+    },
+    {
+      "id": 24,
+      "name": "Living",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "S",
+          "date": "22.10.2022",
+          "time": "13:00",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "M",
+          "date": "01.11.2022",
+          "time": "18:30",
+          "weekday": "Tusday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/living"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt9051908"
+        }
+      ],
+      "image": "living.png"
+    },
+    {
+      "id": 25,
+      "name": "Mein Satz",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "S",
+          "date": "22.10.2022",
+          "time": "18:00",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "M",
+          "date": "25.10.2022",
+          "time": "16:00",
+          "weekday": "Tusday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/de/film/mein-satz"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com"
+        }
+      ],
+      "image": "satz.png"
     }
 ]
   

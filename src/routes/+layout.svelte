@@ -23,16 +23,14 @@
 <svelte:head>
   <title>Viennale 2022</title>
   <meta name="robots" content="noindex nofollow" />
-  <html lang="en" />
 </svelte:head>
 
 <style>
   .screen {
-    /* body - or any parent wrapper */
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-  }
+		display: flex;
+		flex-direction: column;
+		min-height: 100vh;
+	}
 
   main {
     flex: 1;
