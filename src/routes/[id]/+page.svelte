@@ -11,6 +11,7 @@
   let movie = movies[id - 1];
 </script>
 
+{#if movie}
 <div class="my-10 mx-auto lg:w-1/2 bg-white shadow overflow-hidden sm:rounded-lg">
   <div class="px-4 py-5 sm:px-6">
     <div class="text-2xl leading-6 font-medium">{movie.name}</div>
@@ -48,3 +49,4 @@
     </dl>
   </div>
 </div>
+{/if}
