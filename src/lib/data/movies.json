@@ -1421,7 +1421,7 @@
           "weekday": "Monday"
         },
         {
-          "kino": "Wednesday",
+          "kino": "Stadtkino",
           "date": "26.10.2022",
           "time": "11:45",
           "weekday": "Wednesday"
@@ -1438,6 +1438,186 @@
         }
       ],
       "image": "ete.png"
+    },
+    {
+      "id": 49,
+      "name": "Geographies Of Solitude",
+      "score": "8.2",
+      "shows" : [
+        {
+          "kino": "Metro Kino",
+          "date": "24.10.2022",
+          "time": "16:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Metro Kino",
+          "date": "01.11.2022",
+          "time": "13:30",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/geographies-solitude"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11398152"
+        }
+      ],
+      "image": "solitude.png"
+    },
+    {
+      "id": 50,
+      "name": "The United States of America",
+      "score": "6.4",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "24.10.2022",
+          "time": "20:30",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Metro Kino",
+          "date": "28.10.2022",
+          "time": "16:00",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/united-states-america"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17043566"
+        }
+      ],
+      "image": "america.png"
+    },
+    {
+      "id": 51,
+      "name": "Avec amour et acharnement",
+      "score": "6.3",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "25.10.2022",
+          "time": "13:00",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "01.11.2022",
+          "time": "20:30",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/avec-amour-et-acharnement"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13535920"
+        }
+      ],
+      "image": "blade.png"
+    },
+    {
+      "id": 52,
+      "name": "Tori et Lokita",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "25.10.2022",
+          "time": "15:30",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "01.11.2022",
+          "time": "15:30",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/tori-et-lokita"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt18317064"
+        }
+      ],
+      "image": "tori.png"
+    },
+    {
+      "id": 53,
+      "name": "The Fire Within: A Requiem for Katia and Maurice Krafft",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "25.10.2022",
+          "time": "15:30",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "01.11.2022",
+          "time": "15:30",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/fire-within-requiem-katia-and-maurice-krafft"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt19383190"
+        }
+      ],
+      "image": "fire.png"
+    },
+    {
+      "id": 54,
+      "name": "A Little Love Package",
+      "score": "4.8",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "25.10.2022",
+          "time": "21:00",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Metro Kino",
+          "date": "26.10.2022",
+          "time": "11:00",
+          "weekday": "Wednesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/little-love-package"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17305656"
+        }
+      ],
+      "image": "lovepackage.png"
     }
 ]
   
