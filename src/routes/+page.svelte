@@ -46,7 +46,7 @@
         <tbody>
           {#each movies as movie, movieIdx}
             <tr>
-              <td class="{movieIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell"><a href={movie.links[0].lvalue} class="hover:text-black">{movie.name}</a></td>
+              <td class="{movieIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-700 lg:table-cell"><a href={movie.links[0].lvalue} class="hover:text-black">{movie.name}</a></td>
               <td class="{movieIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell"><a href={movie.links[1].lvalue} class="hover:text-black">{movie.score}</a></td>
               <td class="{movieIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{movie.shows[0].date} - {movie.shows[0].time}h - {movie.shows[0].weekday} - {movie.shows[0].kino}</td>
               <td class="{movieIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{movie.shows[1].date} - {movie.shows[1].time}h - {movie.shows[0].weekday} - {movie.shows[0].kino}</td>
