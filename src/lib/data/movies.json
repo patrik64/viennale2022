@@ -1618,6 +1618,396 @@
         }
       ],
       "image": "lovepackage.png"
+    },
+    {
+      "id": 55,
+      "name": "Incroyable mais vrai",
+      "score": "6.6",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "25.10.2022",
+          "time": "13:00",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "26.10.2022",
+          "time": "23:15",
+          "weekday": "Wednesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/incroyable-mais-vrai"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13145534"
+        }
+      ],
+      "image": "vrai.png"
+    },
+    {
+      "id": 56,
+      "name": "Lobo e cão",
+      "score": "6.6",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "25.10.2022",
+          "time": "20:15",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "27.10.2022",
+          "time": "15:15",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/lobo-e-cao"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21838736"
+        }
+      ],
+      "image": "wolfdog.png"
+    },
+    {
+      "id": 57,
+      "name": "Retour à Seoul",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "25.10.2022",
+          "time": "20:15",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "27.10.2022",
+          "time": "15:15",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/retour-seoul"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt19719836"
+        }
+      ],
+      "image": "returnseoul.png"
+    },
+    {
+      "id": 58,
+      "name": "O trio em mi bemol",
+      "score": "6.3",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "25.10.2022",
+          "time": "13:30",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Metro Kino",
+          "date": "27.10.2022",
+          "time": "18:00",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/trio-em-mi-bemol"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17555654"
+        }
+      ],
+      "image": "trio.png"
+    },
+    {
+      "id": 59,
+      "name": "Fogo-Fátuo",
+      "score": "6.3",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "25.10.2022",
+          "time": "16:30",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "28.10.2022",
+          "time": "23:00",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/fogo-fatuo"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11460816"
+        }
+      ],
+      "image": "fogo.png"
+    },
+    {
+      "id": 60,
+      "name": "Monica",
+      "score": "7.2",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "25.10.2022",
+          "time": "16:30",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "28.10.2022",
+          "time": "23:00",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/monica"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt6337816"
+        }
+      ],
+      "image": "monica.png"
+    },
+    {
+      "id": 61,
+      "name": "Chiara",
+      "score": "5.6",
+      "shows" : [
+        {
+          "kino": "Metro Kino",
+          "date": "25.10.2022",
+          "time": "18:30",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/chiara-0"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15027532"
+        }
+      ],
+      "image": "chiara.png"
+    },
+    {
+      "id": 62,
+      "name": "Shimen",
+      "score": "6.3",
+      "shows" : [
+        {
+          "kino": "Metro Kino",
+          "date": "25.10.2022",
+          "time": "21:00",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Metro Kino",
+          "date": "31.10.2022",
+          "time": "20:00",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/shimen"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14071684"
+        }
+      ],
+      "image": "shimen.png"
+    },
+    {
+      "id": 63,
+      "name": "Schlachthäuser der Moderne",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "25.10.2022",
+          "time": "20:30",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/de/film/schlachthaeuser-der-moderne"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt22074466"
+        }
+      ],
+      "image": "moderne.png"
+    },
+    {
+      "id": 64,
+      "name": "Khers nist",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "26.10.2022",
+          "time": "13:00",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "28.10.2022",
+          "time": "20:30",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/khers-nist"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt20205236"
+        }
+      ],
+      "image": "bear.png"
+    },
+    {
+      "id": 65,
+      "name": "Stars At Noon",
+      "score": "5.3",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "26.10.2022",
+          "time": "15:30",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Urania",
+          "date": "31.10.2022",
+          "time": "13:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/stars-noon"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt10354106"
+        }
+      ],
+      "image": "noon.png"
+    },
+    {
+      "id": 66,
+      "name": "Theater Of Thought",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "26.10.2022",
+          "time": "21:15",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "29.10.2022",
+          "time": "13:00",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/theater-thought"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21998502"
+        }
+      ],
+      "image": "theater.png"
+    },
+    {
+      "id": 67,
+      "name": "Saint Omer",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "26.10.2022",
+          "time": "15:00",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Urania",
+          "date": "31.10.2022",
+          "time": "18:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/saint-omer"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15376894"
+        }
+      ],
+      "image": "omer.png"
     }
 ]
   

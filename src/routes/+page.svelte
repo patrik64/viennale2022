@@ -49,7 +49,11 @@
               <td class="{movieIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-700 lg:table-cell"><a href={movie.links[0].lvalue} class="hover:text-black">{movie.name}</a></td>
               <td class="{movieIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell"><a href={movie.links[1].lvalue} class="hover:text-black">{movie.score}</a></td>
               <td class="{movieIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{movie.shows[0].date} - {movie.shows[0].time}h - {movie.shows[0].weekday} - {movie.shows[0].kino}</td>
-              <td class="{movieIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{movie.shows[1].date} - {movie.shows[1].time}h - {movie.shows[0].weekday} - {movie.shows[0].kino}</td>
+              {#if movie.shows[1].kino.length > 0}
+                <td class="{movieIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">{movie.shows[1].date} - {movie.shows[1].time}h - {movie.shows[1].weekday} - {movie.shows[1].kino}</td>
+              {:else}  
+                <td class="{movieIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell"></td>
+              {/if}
               <td class="{movieIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">
                 <a href={`/${movie.id}`} class="hover:text-black"><svelte:component this={LogoutIcon} class="pr-2 mx-auto h-6" aria-hidden="true" /></a>
               </td>
