@@ -42,10 +42,12 @@
         <dt class="text-sm font-medium text-gray-600">Show 1</dt>
         <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{movie.shows[0].date} - {movie.shows[0].time}h - {movie.shows[0].weekday} - {movie.shows[0].kino}</dd>
       </div>
+      {#if movie.shows[1].kino.length > 0}
       <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
         <dt class="text-sm font-medium text-gray-600">Show 2</dt>
         <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{movie.shows[1].date} - {movie.shows[1].time}h - {movie.shows[1].weekday} - {movie.shows[1].kino}</dd>
       </div>
+      {/if}
     </dl>
   </div>
 </div>

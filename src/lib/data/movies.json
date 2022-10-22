@@ -2698,6 +2698,186 @@
         }
       ],
       "image": "roman.png"
+    },
+    {
+      "id": 91,
+      "name": "The Eternal Daughter",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "29.10.2022",
+          "time": "20:45",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "31.10.2022",
+          "time": "17:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/eternal-daughter"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13874422"
+        }
+      ],
+      "image": "eternal.png"
+    },
+    {
+      "id": 92,
+      "name": "Kafka For Kids",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "29.10.2022",
+          "time": "15:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Metro Kino",
+          "date": "30.10.2022",
+          "time": "18:15",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/kafka-kids"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt18039418"
+        }
+      ],
+      "image": "kafka.png"
+    },
+    {
+      "id": 93,
+      "name": "Gigi la legge",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "29.10.2022",
+          "time": "18:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Urania",
+          "date": "30.10.2022",
+          "time": "18:45",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/gigi-la-legge"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21226634"
+        }
+      ],
+      "image": "gigi.png"
+    },
+    {
+      "id": 94,
+      "name": "Astrakan",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "29.10.2022",
+          "time": "20:45",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Urania",
+          "date": "30.10.2022",
+          "time": "16:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/astrakan"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21163400"
+        }
+      ],
+      "image": "astrakan.png"
+    },
+    {
+      "id": 95,
+      "name": "Taht el shajara",
+      "score": "6.7",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "29.10.2022",
+          "time": "11:00",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Metro Kino",
+          "date": "31.10.2022",
+          "time": "18:00",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/taht-el-shajara"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15307126"
+        }
+      ],
+      "image": "fig.png"
+    },
+    {
+      "id": 96,
+      "name": "Kapinynas",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "29.10.2022",
+          "time": "18:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Metro Kino",
+          "date": "31.10.2022",
+          "time": "13:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/taht-el-shajara"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt19389994"
+        }
+      ],
+      "image": "burial.png"
     }
 ]
   

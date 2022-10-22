@@ -1,5 +1,5 @@
 <script>
-    import { LogoutIcon } from "@rgossiaux/svelte-heroicons/outline";
+    import { FilmIcon } from "@rgossiaux/svelte-heroicons/outline";
     import movies from "$lib/data/movies.json";
   </script>
   
@@ -55,7 +55,7 @@
                 <td class="{movieIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell"></td>
               {/if}
               <td class="{movieIdx === 0 ? '' : 'border-t border-gray-200'} px-3 py-3.5 text-sm text-gray-500 lg:table-cell">
-                <a href={`/${movie.id}`} class="hover:text-black"><svelte:component this={LogoutIcon} class="pr-2 mx-auto h-6" aria-hidden="true" /></a>
+                <a href={`/${movie.id}`} class="hover:text-black"><svelte:component this={FilmIcon} class="pr-2 mx-auto h-6" aria-hidden="true" /></a>
               </td>
             </tr>
           {/each}
