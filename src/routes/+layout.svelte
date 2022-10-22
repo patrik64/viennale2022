@@ -1,5 +1,6 @@
 <script>
   import "../app.css";
+  import Footer from "../lib/Footer.svelte";
 </script>
 
 <div class="screen">
@@ -18,6 +19,9 @@
   <main>
     <slot />
   </main>
+  <footer>
+    <Footer />
+  </footer>
 </div>
 
 <svelte:head>
