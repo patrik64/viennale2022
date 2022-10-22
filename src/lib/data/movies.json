@@ -2878,6 +2878,186 @@
         }
       ],
       "image": "burial.png"
+    },
+    {
+      "id": 97,
+      "name": "The Natural History of Destruction",
+      "score": "6.2",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "29.10.2022",
+          "time": "20:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Metro Kino",
+          "date": "30.10.2022",
+          "time": "15:30",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/natural-history-destruction"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt19725896"
+        }
+      ],
+      "image": "destruction.png"
+    },
+    {
+      "id": 98,
+      "name": "The Kiev Trial",
+      "score": "6.2",
+      "shows" : [
+        {
+          "kino": "Metro Kino",
+          "date": "29.10.2022",
+          "time": "16:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "30.10.2022",
+          "time": "13:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/natural-history-destruction"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21376884"
+        }
+      ],
+      "image": "kiev.png"
+    },
+    {
+      "id": 99,
+      "name": "Un couple",
+      "score": "5.0",
+      "shows" : [
+        {
+          "kino": "Metro Kino",
+          "date": "29.10.2022",
+          "time": "19:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "01.11.2022",
+          "time": "15:30",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/un-couple"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21374862"
+        }
+      ],
+      "image": "couple.png"
+    },
+    {
+      "id": 100,
+      "name": "Showing Up",
+      "score": "6.6",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "30.10.2022",
+          "time": "20:45",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "01.11.2022",
+          "time": "17:30",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/showing"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13923216"
+        }
+      ],
+      "image": "showing.png"
+    },
+    {
+      "id": 101,
+      "name": "El agua",
+      "score": "6.2",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "30.10.2022",
+          "time": "18:00",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Urania",
+          "date": "01.11.2022",
+          "time": "21:00",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/agua"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14300504"
+        }
+      ],
+      "image": "agua.png"
+    },
+    {
+      "id": 102,
+      "name": "Eo",
+      "score": "7.0",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "30.10.2022",
+          "time": "23:00",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Urania",
+          "date": "01.11.2022",
+          "time": "16:30",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/eo"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt19652910"
+        }
+      ],
+      "image": "eo.png"
     }
 ]
   
