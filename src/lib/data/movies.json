@@ -2150,7 +2150,7 @@
       "links": [
         {
           "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/en/film/nous-etudiants"
+          "lvalue": "https://www.viennale.at/en/film/close"
         },
         {
           "lkey": "imdb",
@@ -2158,6 +2158,546 @@
         }
       ],
       "image": "close.png"
+    },
+    {
+      "id": 73,
+      "name": "Terra que marca",
+      "score": "8.4",
+      "shows" : [
+        {
+          "kino": "Metro Kino",
+          "date": "26.10.2022",
+          "time": "16:00",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Urania",
+          "date": "27.10.2022",
+          "time": "13:30",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/terra-que-marca"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17555634"
+        }
+      ],
+      "image": "terra.png"
+    },
+    {
+      "id": 74,
+      "name": "Vanskabte Land - Volaða Land",
+      "score": "7.4",
+      "shows" : [
+        {
+          "kino": "Metro Kino",
+          "date": "26.10.2022",
+          "time": "21:00",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "30.10.2022",
+          "time": "13:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/vanskabte-land-volada-land"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt19623228"
+        }
+      ],
+      "image": "godland.png"
+    },
+    {
+      "id": 75,
+      "name": "The Menu",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "27.10.2022",
+          "time": "18:30",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "30.10.2022",
+          "time": "16:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/menu"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt9764362"
+        }
+      ],
+      "image": "menu.png"
+    },
+    {
+      "id": 76,
+      "name": "The Whale",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "27.10.2022",
+          "time": "13:00",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "30.10.2022",
+          "time": "18:15",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/whale"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13833688"
+        }
+      ],
+      "image": "menu.png"
+    },
+    {
+      "id": 77,
+      "name": "Les Enfants des autres",
+      "score": "6.7",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "27.10.2022",
+          "time": "15:30",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "Urania",
+          "date": "01.11.2022",
+          "time": "18:30",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/enfants-des-autres"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15403712"
+        }
+      ],
+      "image": "enfants.png"
+    },
+    {
+      "id": 78,
+      "name": "The Banshees of Inisherin",
+      "score": "8.3",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "27.10.2022",
+          "time": "21:00",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "Urania",
+          "date": "29.10.2022",
+          "time": "13:00",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/banshees-inisherin"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11813216"
+        }
+      ],
+      "image": "banshees.png"
+    },
+    {
+      "id": 79,
+      "name": "Super Natural",
+      "score": "6.6",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "27.10.2022",
+          "time": "13:00",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "Metro Kino",
+          "date": "28.10.2022",
+          "time": "13:00",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/super-natural"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17373978"
+        }
+      ],
+      "image": "natural.png"
+    },
+    {
+      "id": 80,
+      "name": "Une fleur à la bouche",
+      "score": "7.4",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "27.10.2022",
+          "time": "18:00",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/une-fleur-la-bouche"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17066764"
+        }
+      ],
+      "image": "fleur.png"
+    },
+    {
+      "id": 81,
+      "name": "Jet Lag",
+      "score": "7.4",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "27.10.2022",
+          "time": "18:00",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/jet-lag"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17544468"
+        }
+      ],
+      "image": "jetlag.png"
+    },
+    {
+      "id": 82,
+      "name": "Manto de gemas",
+      "score": "5.3",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "27.10.2022",
+          "time": "22:30",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "Urania",
+          "date": "30.10.2022",
+          "time": "11:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/manto-de-gemas"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17280362"
+        }
+      ],
+      "image": "gems.png"
+    },
+    {
+      "id": 83,
+      "name": "Tenéis que venir a verla",
+      "score": "6.0",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "27.10.2022",
+          "time": "22:30",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "Urania",
+          "date": "30.10.2022",
+          "time": "11:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/teneis-que-venir-verla"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14766636"
+        }
+      ],
+      "image": "verla.png"
+    },
+    {
+      "id": 84,
+      "name": "Elfriede Jelinek - Die Sprache von der Leine lassen",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "28.10.2022",
+          "time": "18:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Urania",
+          "date": "29.10.2022",
+          "time": "13:30",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/elfriede-jelinek-die-sprache-von-der-leine-lassen"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt12163858"
+        }
+      ],
+      "image": "jelinek.png"
+    },
+    {
+      "id": 85,
+      "name": "Bones And All",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "28.10.2022",
+          "time": "20:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "29.10.2022",
+          "time": "15:30",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/bones-and-all"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt10168670"
+        }
+      ],
+      "image": "bones.png"
+    },
+    {
+      "id": 86,
+      "name": "Fumer fait tousser",
+      "score": "7.0",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "28.10.2022",
+          "time": "23:15",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Urania",
+          "date": "31.10.2022",
+          "time": "16:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/fumer-fait-tousser"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15471560"
+        }
+      ],
+      "image": "smoking.png"
+    },
+    {
+      "id": 87,
+      "name": "Nie zgubiliśmy drogi",
+      "score": "5.4",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "28.10.2022",
+          "time": "13:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/nie-zgubilismy-drogi"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17550784"
+        }
+      ],
+      "image": "way.png"
+    },
+    {
+      "id": 88,
+      "name": "Drii winter",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "28.10.2022",
+          "time": "21:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "01.11.2022",
+          "time": "12:00",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/drii-winter"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14783042"
+        }
+      ],
+      "image": "drii.png"
+    },
+    {
+      "id": 89,
+      "name": "Camuflaje",
+      "score": "7.2",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "28.10.2022",
+          "time": "18:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "30.10.2022",
+          "time": "15:30",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/camuflaje"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11136964"
+        }
+      ],
+      "image": "camuflaje.png"
+    },
+    {
+      "id": 90,
+      "name": "When There Is No More Music to Write ...",
+      "score": "7.2",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "28.10.2022",
+          "time": "20:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/when-there-no-more-music-write-and-other-roman-stories"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt18749638"
+        }
+      ],
+      "image": "roman.png"
     }
 ]
   
