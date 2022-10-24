@@ -2277,7 +2277,7 @@
           "lvalue": "https://www.imdb.com/title/tt13833688"
         }
       ],
-      "image": "menu.png"
+      "image": "whale.png"
     },
     {
       "id": 77,
@@ -3058,6 +3058,186 @@
         }
       ],
       "image": "eo.png"
+    },
+    {
+      "id": 103,
+      "name": "Flux Gourmet",
+      "score": "6.0",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "30.10.2022",
+          "time": "21:30",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "31.10.2022",
+          "time": "14:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/flux-gourmet"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15010292"
+        }
+      ],
+      "image": "flux.png"
+    },
+    {
+      "id": 104,
+      "name": "Kapag wala nang mga alon",
+      "score": "7.7",
+      "shows" : [
+        {
+          "kino": "Metro Kino",
+          "date": "30.10.2022",
+          "time": "11:30",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "31.10.2022",
+          "time": "20:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/kapag-wala-nang-mga-alon"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt12824896"
+        }
+      ],
+      "image": "kapag.png"
+    },
+    {
+      "id": 105,
+      "name": "Walk Up",
+      "score": "6.1",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "31.10.2022",
+          "time": "13:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Metro Kino",
+          "date": "31.10.2022",
+          "time": "21:00",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/walk"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21404804"
+        }
+      ],
+      "image": "walkup.png"
+    },
+    {
+      "id": 106,
+      "name": "Un beau matin",
+      "score": "7.0",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "31.10.2022",
+          "time": "19:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "01.11.2022",
+          "time": "21:45",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/un-beau-matin"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13482828"
+        }
+      ],
+      "image": "matin.png"
+    },
+    {
+      "id": 107,
+      "name": "Al amparo del cielo",
+      "score": "6.5",
+      "shows" : [
+        {
+          "kino": "Metro Kino",
+          "date": "31.10.2022",
+          "time": "11:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/al-amparo-del-cielo"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt16244344"
+        }
+      ],
+      "image": "amparo.png"
+    },
+    {
+      "id": 108,
+      "name": "Footnote",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Metro Kino",
+          "date": "31.10.2022",
+          "time": "16:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "01.11.2022",
+          "time": "20:45",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/footnote"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21158844"
+        }
+      ],
+      "image": "footnote.png"
     }
 ]
   
