@@ -6,5 +6,5 @@ pnpm i
 pnpm dev --open
 ```
 
-[![brahms](https://github-readme-stats.vercel.app/api/pin/?username=patrik64&repo=viennale2022&theme=light
+[![brahms](https://github-readme-stats.vercel.app/api/pin/?username=patrik64&repo=viennale2022&theme=dark
 )](https://viennale2022.vercel.app/)
